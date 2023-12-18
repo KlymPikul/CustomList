@@ -20,7 +20,7 @@ public class Main {
         CustomStringList.add("Hayk");
         System.out.println("After adding 'Hayk': " + CustomStringList);
 
-       // CustomStringList.addIfNotExists("Klym");
+        CustomStringList.addIfNotExists("Klym");
         CustomStringList.addIfNotExists("Mark");
     }
 }
